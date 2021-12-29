@@ -1,0 +1,1 @@
+A test-case to verify [LOG4J2-2951](https://issues.apache.org/jira/browse/LOG4J2-2951)
